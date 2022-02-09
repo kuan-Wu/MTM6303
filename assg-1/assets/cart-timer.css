@@ -1,0 +1,12 @@
+h5 {
+  color: green;
+  font-size: 20px;
+  margin: 5px;
+}
+
+#clockdiv {
+  background-color: green;
+  color: white;
+  font-size: 20px;
+  padding: 10px;
+}
